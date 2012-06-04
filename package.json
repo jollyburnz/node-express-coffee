@@ -1,0 +1,11 @@
+{"name" : "node-express-coffeescript-template",
+  "description" : "PERSONAL TEMPLATE",
+  "version" : "0.0.0",
+  "author" : "Jackson Lin",
+  "dependencies" : {
+    "connect" : "2.3.x",
+    "express" : "2.5.x",
+    "coffee-script" : "1.3.x",
+    "jade" : "0.x.x"
+  }
+}
